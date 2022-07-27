@@ -62,6 +62,7 @@ function increment() {
 
 function save() {
     console.log(count)
+    
 }
 
 // let name1 = "Derick Ogendi"
