@@ -1,0 +1,1 @@
+const reserveString = string => [...string].reverse().join('');
