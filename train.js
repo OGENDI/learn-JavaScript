@@ -187,3 +187,7 @@
 // console.log(nextInLine(testArr, 6));
 // console.log('After: ' + JSON.stringify(testArr));
 
+var eNUm = 10;
+var name = 'Derick';
+
+
